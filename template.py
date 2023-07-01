@@ -8,4 +8,9 @@ int main(int argc, char *argv[])
         return 0:
 }
   automobile_system for researching area
-from 
+from pyChatGPT  import ChatGPT
+
+session_token ='formula sample 1" 
+cookie from overworld 
+eliminate pesky nearby mobs
+catch (e)
